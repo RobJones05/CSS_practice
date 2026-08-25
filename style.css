@@ -14,10 +14,18 @@ div {
 
 .box1 {
     background-color: #4736e0;
-    height: 370px;
+    height: 385px;
     float: left;
 }
 
 .box2, .box3 {
     float: right;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: #6769e0;
+    margin-left: auto;
+    margin-right: auto;
 }
