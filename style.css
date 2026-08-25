@@ -1,0 +1,23 @@
+body {
+    background-color: #b4eeee;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-color: #1cdaa1;
+    border: solid medium rgba(0, 0, 0, 0.692);
+    border-radius: 30px;
+    padding: 25px;
+    margin: 15px;
+}
+
+.box1 {
+    background-color: #4736e0;
+    height: 370px;
+    float: left;
+}
+
+.box2, .box3 {
+    float: right;
+}
