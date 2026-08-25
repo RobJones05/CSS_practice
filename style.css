@@ -8,6 +8,7 @@ div {
     background-color: #1cdaa1;
     border: solid medium rgba(0, 0, 0, 0.692);
     border-radius: 30px;
+    box-shadow: 2px 2px 5px rgb(77, 76, 76);
     padding: 25px;
     margin: 15px;
 }
